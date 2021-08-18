@@ -1,0 +1,1 @@
+{"jobID":"7bd870f4-1b74-422f-bd2f-22772fb70932","spec":{"type":"policy","cause":{"Message":"","User":"Antonius Malsam \u003cantonius.malsam@efscis.onmicrosoft.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
