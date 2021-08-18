@@ -1,0 +1,1 @@
+{"jobID":"ca4decea-148d-d2d8-15dc-7fc0180e38ac","spec":{"type":"policy","cause":{"Message":"","User":"Antonius Malsam \u003cantonius.malsam@efscis.onmicrosoft.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhell":"semver:~1.19.x"},"remove":{}}}},"result":null}
